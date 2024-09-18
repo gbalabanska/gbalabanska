@@ -1,16 +1,23 @@
-## Hi there 👋
+## About Me
 
-<!--
-**gbalabanska/gbalabanska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer** with experience in:
+- **Java** ☕
+- **Spring Framework** 🌱
+- **Docker** 🐳
+- **Oracle DB** 🗄️
+- **JavaScript** 💻
+- **HTML** 🌐
+- **CSS** 🎨
+- **JavaServer Faces** 🌟
 
-Here are some ideas to get you started:
+**Passionate about learning cutting-edge technologies** 🚀.  
+I am currently focusing on **microservice architecture** 🧩, exploring best practices and tools.  
+Enjoy working in **team environments** 🤝.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+Pursuing a **Master's degree in Software Architecture** 🎓.
+
+## Contact
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gbalabanska/)
