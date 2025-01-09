@@ -3,20 +3,22 @@
 **Software Engineer** with experience in:
 - **Java** ☕
 - **Spring Framework** 🌱
+- **Angular** 🅰️
 - **Docker** 🐳
 - **Oracle DB** 🗄️
-- **JavaScript** 💻
+- **JavaScript / TypeScript** 💻
+- **JavaServer Faces** 🌟
 - **HTML** 🌐
 - **CSS** 🎨
-- **JavaServer Faces** 🌟
+
 
 **Passionate about learning cutting-edge technologies** 🚀.  
 I am currently focusing on **microservice architecture** 🧩, exploring best practices and tools.  
 Enjoy working in **team environments** 🤝.
 
 ## Education
-
-Pursuing a **Master's degree in Software Architecture** 🎓.
+- **Bachelor's degree in Computer Science** from the Technical University of Sofia 📜
+- Pursuing a **Master's degree in Software Architecture** 🎓.
 
 ## Contact
 
