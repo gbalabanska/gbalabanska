@@ -18,7 +18,7 @@ Enjoy working in **team environments** 🤝.
 
 ## Education
 - **Bachelor's degree in Computer Science** from the Technical University of Sofia 📜
-- Pursuing a **Master's degree in Software Architecture** 🎓.
+- **Master's degree in Software Architecture** 🎓.
 
 ## Contact
 
