@@ -4,6 +4,7 @@
 - **Java** ☕
 - **Spring Framework** 🌱
 - **Angular** 🅰️
+- **Kubernetes** ☸️
 - **Docker** 🐳
 - **Oracle DB** 🗄️
 - **JavaScript / TypeScript** 💻
